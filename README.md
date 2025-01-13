@@ -40,8 +40,11 @@ Candy Crush Console is a C++ implementation of the classic Candy Crush game. Thi
 2. Navigate to the directory:
    cd CandyCrushConsole
 3. Compile the Code (requires a C++ Compiler, eg., g++):
+  ```bash
    **g++ main.cpp -o a.exe**
-4. Run The  executable for this case file is a.exe, so run it with command **.\a** .
+4. Run The  executable for this case file is a.exe, so run it with command 
+  ```bash
+  **.\a** .
 
 ### Contributors
 For any questions or suggestions, feel free to contact us:
