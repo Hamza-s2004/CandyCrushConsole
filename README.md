@@ -28,11 +28,25 @@ Candy Crush Console is a C++ implementation of the classic Candy Crush game. Thi
    - View credits
    - Exit
 3. Choose a game mode: Easy or Hard.
-4. Use arrow keys to swap candies and create matches.
-5. Score as much as possible before the timer runs out.
+4. Enter row and column number to select the candy.
+5. Use arrow keys to swap selected candy and create matches.
+6. Score as much as possible before the timer runs out.
 
 ## Installation and Usage
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/CandyCrushConsole.git
+   git clone https://github.com/Hamza-s2004/CandyCrushConsole.git
+2. Navigate to the directory:
+   cd CandyCrushConsole
+3. Compile the Code (requires a C++ Compiler, eg., g++):
+   **g++ main.cpp -o a.exe**
+4. Run The  executable for this case file is a.exe, so run it with command **.\a** .
+
+### Contributors
+For any questions or suggestions, feel free to contact us:
+- [Muhammad Hassan](https://github.com/MHassan05)   (mh873030@gmail.com)
+- [Hamza Shabbir](https://github.com/Hamza-s2004)   (hamzashabbirhs0123@gmail.com)
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
