@@ -56,5 +56,17 @@ For any questions or suggestions, feel free to contact us:
 - [Hamza Shabbir](https://github.com/Hamza-s2004)
 [Mail At](hamzashabbirhs0123@gmail.com)
 
+## Contributors
+
+For any questions, suggestions, or feedback, feel free to reach out to us:
+
+- **Muhammad Hassan**  
+  GitHub: [MHassan05](https://github.com/MHassan05)  
+  Email: [m.hassan.x05@gmail.com](mailto:m.hassan.x05@gmail.com)
+
+- **Hamza Shabbir**  
+  GitHub: [Hamza-s2004](https://github.com/Hamza-s2004)  
+  Email: [hamzashabbirhs0123@gmail.com](mailto:hamzashabbirhs0123@gmail.com)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
