@@ -49,12 +49,6 @@ Candy Crush Console is a C++ implementation of the classic Candy Crush game. Thi
   ```bash
    .\a 
   ```
-  
-## Contributors
-For any questions or suggestions, feel free to contact us:
-- [Muhammad Hassan](https://github.com/MHassan05) [Mail At](m.hassan.x05@gmail.com) 
-- [Hamza Shabbir](https://github.com/Hamza-s2004)
-[Mail At](hamzashabbirhs0123@gmail.com)
 
 ## Contributors
 
